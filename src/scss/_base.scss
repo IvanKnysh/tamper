@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+// Variables
+$color1: #384C85;
+$color2: #551A8B;
+$color3: #7F2F4A;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Abel', sans-serif;
+  font-weight: 400;
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+}
